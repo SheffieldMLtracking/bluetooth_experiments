@@ -1,0 +1,5 @@
+Item, Link, Quantity, Notes
+
+Hall effect sensor, ?, ?, ?
+Magnet, ?, ?, ?
+Filament, https://amzn.eu/d/0vc9xZb, 3 spools, white: 1.75mm diameter
