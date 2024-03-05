@@ -1,23 +1,35 @@
 Item, Quantity, Notes, Link
-Compass, 1, ,                               https://uk.farnell.com/digilent/410-355/pmod-cmps2-3-axis-compass/dp/3295685#anchorTechnicalDOCS
-Hall effect sensor, 1, ,                    https://uk.farnell.com/honeywell/ss411p/sensor-hall-effect-bipolar-to/dp/1784734
-Magnet, 1, ,                                https://uk.farnell.com/standexmeder/smco5-5x4mm/magnet-permanent/dp/1079498
-Tripods
-Nut for tripods
-GPS modules
+Compass, 1, ,                                 https://uk.farnell.com/digilent/410-355/pmod-cmps2-3-axis-compass/dp/3295685#anchorTechnicalDOCS
+Hall effect sensor, 1, ,                      https://uk.farnell.com/honeywell/ss411p/sensor-hall-effect-bipolar-to/dp/1784734
+Magnet, 1, ,                                  https://uk.farnell.com/standexmeder/smco5-5x4mm/magnet-permanent/dp/1079498
+Tripods???
+Nut for tripods, 1, Size: 5/8",               https://www.ebay.co.uk/itm/115541800152 
+GPS modules,                                  https://www.ebay.co.uk/itm/285160164285
+Motor, 1, 30rpm,                              https://www.ebay.co.uk/itm/394322995875?var=662841243423
+Motor driver??
+Thrust Bearing, 1, F8-16M (8x16x5mm),         https://www.ebay.co.uk/itm/285017601410?var=586844404448
 
-DA14531 dev kit, 1, for programming tag,    https://uk.farnell.com/dialog-semiconductor/da14531-00fxdevkt-u/dev-kit-usb-bluetooth-low-energy/dp/3265422
-Yagi Antenna, 3, ,                          https://uk.farnell.com/lprs/yagi-14-2-4g/antenna-yagi-14-element-2-4ghz/dp/2096217
-Battery, 1, ,                               https://www.amazon.co.uk/gp/product/B0B5WBHDDN
-Battery charger, ,                          https://www.amazon.co.uk/gp/product/B09KR7B6DD
-SMA (RF connector cable), 2, ,              https://www.amazon.co.uk/gp/product/B07HK7XCNZ #which of
-SMA (RF connector cable), 2, ,              https://www.amazon.co.uk/gp/product/B081JNQ7ML #these connectors
-SMA (RF connector cable), 2, ,              https://www.amazon.co.uk/gp/product/B07YBYMBSV #do we need?
-Rocker Switch, 1, ,                         https://www.amazon.co.uk/dp/B0825W4GGH
-Filament, 3 spools, white: 1.75mm diameter, https://amzn.eu/d/0vc9xZb
-Screw Twist Connectors, , ,                 https://www.amazon.co.uk/gp/product/B085TMMVN7
-Buck power converter, 1,                    https://www.amazon.co.uk/gp/product/B0823DB3W3
-Stripboard, 1, ,                            https://www.amazon.co.uk/gp/product/B08BK8CK8B
+Ant.wire,36AWG=0.0127mm^2x31mmx9mg/mm³=3.5mg, https://www.ebay.co.uk/itm/144648259884
+RF Amplifier, 3,                              https://www.ebay.co.uk/itm/394830441329
+BLE dev tool (EV-BT832XE), 3,                 https://www.mouser.co.uk/ProductDetail/308-EVBT832XE
+Yagi Antenna, 3, ,                            https://uk.farnell.com/lprs/yagi-14-2-4g/antenna-yagi-14-element-2-4ghz/dp/2096217
+Battery, 1, ,                                 https://www.amazon.co.uk/gp/product/B0B5WBHDDN
+Battery charger, ,                            https://www.amazon.co.uk/gp/product/B09KR7B6DD
+SMA (RF connector cable), 2, ,                https://www.amazon.co.uk/gp/product/B07HK7XCNZ #which of
+SMA (RF connector cable), 2, ,                https://www.amazon.co.uk/gp/product/B081JNQ7ML #these connectors
+SMA (RF connector cable), 2, ,                https://www.amazon.co.uk/gp/product/B07YBYMBSV #do we need?
+Rocker Switch, 1, ,                           https://www.amazon.co.uk/dp/B0825W4GGH
+Filament, 3 spools, white: 1.75mm diameter,   https://amzn.eu/d/0vc9xZb
+Screw Twist Connectors, , ,                   https://www.amazon.co.uk/gp/product/B085TMMVN7
+Buck power converter, 1,                      https://www.amazon.co.uk/gp/product/B0823DB3W3
+Stripboard, 1, ,                              https://www.amazon.co.uk/gp/product/B08BK8CK8B
+Cable to connect dev tool to programmer, 1,   https://www.mouser.co.uk/ProductDetail/485-1675
+Programmer dev board, 1,                      https://www.mouser.co.uk/ProductDetail/949-NRF52-DK
 
-
-
+Tag:
+DA14531 dev kit, 1, for programming tag,      https://uk.farnell.com/dialog-semiconductor/da14531-00fxdevkt-u/dev-kit-usb-bluetooth-low-energy/dp/3265422
+DA14531 SoC, 1, PICK+PLACED, ...
+Supercap, 1, PICK+PLACED,                     https://www.mouser.co.uk/ProductDetail/628-CPH3225A
+Connector to program the tag, 1,              https://www.mouser.co.uk/ProductDetail/649-HLW8R-2C7LF
+Crystal, 1, PICK+PLACED,                      https://www.mouser.co.uk/ProductDetail/815-13W32-5-D1GT
+Capacitor, ?, PICK+PLACED,...?
