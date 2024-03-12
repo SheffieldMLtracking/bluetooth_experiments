@@ -4,14 +4,15 @@ Hall effect sensor, 1, ,                      https://uk.farnell.com/honeywell/s
 Magnet, 1, ,                                  https://uk.farnell.com/standexmeder/smco5-5x4mm/magnet-permanent/dp/1079498  [ordered 10]
 Tripods???
 Nut for tripods, 1, Size: 5/8",               https://www.ebay.co.uk/itm/115541800152 [ordered 10]
-GPS modules,                                  https://www.ebay.co.uk/itm/285160164285
-Motor, 1, 30rpm,                              https://www.ebay.co.uk/itm/394322995875?var=662841243423 [ordered 3]
+GPS modules,                                  https://www.ebay.co.uk/itm/285160164285 [ordered 1]
+Motor, 1, 30rpm,                              https://www.ebay.co.uk/itm/394322995875?var=662841243423
 Motor driver??
-Thrust Bearing, 1, F8-16M (8x16x5mm),         https://www.ebay.co.uk/itm/285017601410?var=586844404448 or https://www.ebay.co.uk/itm/315015313472 [???!IS THE CURRENT ONE TOO NARROW???!]
+Thrust Bearing, 1, F8-16M (8x16x5mm),         https://www.ebay.co.uk/itm/285017601410?var=586844404448 or https://www.ebay.co.uk/itm/315015313472 [ordered one]
 
 Ant.wire,36AWG=0.0127mm^2x31mmx9mg/mm³=3.5mg, https://www.ebay.co.uk/itm/144648259884 [have enough]
 RF Amplifier, 3,                              https://www.ebay.co.uk/itm/394830441329 [ordered 6]
-BLE dev tool (EV-BT832XE), 3,                 https://www.mouser.co.uk/ProductDetail/308-EVBT832XE [ordered 6]
+BLE dev tool (EV-BT832XE), 3,                 https://www.mouser.co.uk/ProductDetail/308-EVBT832XE [out of stock]
+                                                    ordered  https://mou.sr/3PjUS9l instead [ordered 3]
 Yagi Antenna, 3, ,                            https://uk.farnell.com/lprs/yagi-14-2-4g/antenna-yagi-14-element-2-4ghz/dp/2096217 or https://uk.rs-online.com/web/p/wifi-antennas/7839634 [ordered 3]
 Battery, 1, ,                                 https://www.amazon.co.uk/gp/product/B0B5WBHDDN
 Battery charger, ,                            https://www.amazon.co.uk/gp/product/B09KR7B6DD
